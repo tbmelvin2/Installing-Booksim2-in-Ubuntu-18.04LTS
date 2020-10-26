@@ -13,8 +13,9 @@ STEPS FOR INSTALLATION
     > sudo make
 4. Might need to install flex and bison
   > sudo apt-get install flex
-    sudo apt-get install flex bison
-5. To run examples after successful installation use the example codes inside examples folder
+5. Installing bison
+  > sudo apt-get install flex bison
+6. To run examples after successful installation use the example codes inside examples folder
     use the following command to run the torus88 example
     > ./booksim examples/torus88
 
